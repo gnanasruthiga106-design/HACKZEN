@@ -1,0 +1,4 @@
+backend.exe
+*.o
+.vscode/
+.DS_Store
